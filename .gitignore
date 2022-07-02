@@ -1,2 +1,6 @@
 # ignore ALL .h5 files
 *.h5
+
+# ignore ALL .jpg or .jpeg files
+*.jpg
+*.jpeg
