@@ -48,4 +48,4 @@ pip install tensorflow
 ## Images foler
 1. Please download "Data Files for Coursework" from moodles 
 2. Unzip it and put 
-3. Put 2 folders - **test** and **train** from the path *fruit\fruit\* fo unziped folder to working folder *projFruitImagesClassification*
+3. Put 2 folders - **test** and **train** from the path <em>fruit\fruit\</em> fo unziped folder to working folder *projFruitImagesClassification*
