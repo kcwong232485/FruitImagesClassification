@@ -4,3 +4,6 @@
 # ignore ALL .jpg or .jpeg files
 *.jpg
 *.jpeg
+
+# ignore checkpoints
+.ipynb_checkpoints/
