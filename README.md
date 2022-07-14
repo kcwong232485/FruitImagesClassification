@@ -16,33 +16,33 @@ pip install tensorflow
 |   |-- RecognizingFruits.ipynb
 |   |-- PredictImage.ipynb
 |   +-- inputimages
-|   |    +-- predict
-|   |        |-- fruit01.jpg
-|   |        |-- fruit02.jpg
-|   |        |-- fruit03.jpg
-|   +-- test
-|   |   +-- apple
-|   |   |   |-- image_336.jpg
-|   |   +-- banana
-|   |   |   |-- image_360.jpg
-|   |   +-- mango
-|   |   |   |-- image_403.jpg
-|   |   +-- orange
-|   |   |   |-- image_461.jpg
-|   |   +-- strawberry
-|   |       |-- image_60.jpg
-|   +-- train
-|   |   +-- apple
-|   |   |   |-- image_14.jpg
-|   |   +-- banana
-|   |   |   |-- image_14.jpg
-|   |   +-- mango
-|   |   |   |-- image_161.jpg
-|   |   +-- orange
-|   |   |   |-- image_14.jpg
-|   |   +-- strawberry
-|   |       |-- image_142.jpg
-|   +-- Readme.md
+|        +-- predict
+|        |   |-- fruit01.jpg
+|        |   |-- fruit02.jpg
+|        |   |-- fruit03.jpg
+|        +-- test
+|        |   +-- apple
+|        |   |   |-- image_336.jpg
+|        |   +-- banana
+|        |   |   |-- image_360.jpg
+|        |   +-- mango
+|        |   |   |-- image_403.jpg
+|        |   +-- orange
+|        |   |   |-- image_461.jpg
+|        |   +-- strawberry
+|        |       |-- image_60.jpg
+|        +-- train
+|        |   +-- apple
+|        |   |   |-- image_14.jpg
+|        |   +-- banana
+|        |   |   |-- image_14.jpg
+|        |   +-- mango
+|        |   |   |-- image_161.jpg
+|        |   +-- orange
+|        |   |   |-- image_14.jpg
+|        |   +-- strawberry
+|        |       |-- image_142.jpg
+|        +-- Readme.md
 ```
 
 ## Images foler
